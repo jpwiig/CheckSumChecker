@@ -6,6 +6,8 @@ This will be a simple terminal program for hashing needs as well as checking the
 
 
 ### Current features that will be implemented: 
+- **Things that must be implemented: **
+  - unit flippin tests
 - [] hashing of strings
     - [x] md5 first phase 
     - [] possibility to change between the different hashing syncronous algorithmis that are supported 
@@ -16,6 +18,7 @@ This will be a simple terminal program for hashing needs as well as checking the
 - other ideas
   - [] Somthing with asyncronous algorithms
   - [] pgp intgration (beeing able to create public keys and private keys that are supported on pgp servers)
+  - [] turing this into a api that can be hosted everywhere and anywhere
 
 ****
 If you have any tips about what is cool to have, let me know! I am open to suggestions! 
